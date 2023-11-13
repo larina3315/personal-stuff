@@ -22,8 +22,6 @@
             "--host","toolbox","enter","devbox"
             ]
         }
-    },
-    "terminal.integrated.defaultProfile.linux": "fedora-toolbox"
 ```
 
 (Optional)
