@@ -12,7 +12,7 @@
 ## Setup in VSC
 ### Custom toolbox in terminal
 - Edit settings.json for "Terminal>Integrated>Profiles: Linux" in Settings
-- Put the following in it
+- Put the following in the "terminal.integrated.profiles.linux" codeblock section (don't forget to put a comma before the last entry before pasting the following)
 
 ```
         "fedora-toolbox": {
