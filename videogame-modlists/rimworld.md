@@ -8,7 +8,7 @@
 - Vehicle Framework
 
 ### Content vs QoL mods
-QoL mods only change/slightly revamp vanilla mechanics.
+QoL mods only change/slightly revamp vanilla mechanics. (might include extra content mod that is absolutely essential)
 Content mods add new content.
 
 # QoL mods
@@ -39,10 +39,12 @@ Content mods add new content.
 ## Vanilla+ Content mods
 - Smoked Meat
 - Smoked Fish
+
+## Vanilla++ Content mods
 - A Dog Said
-- Children, School and Learning
 - Kenshi Fauna
 - Tribal Backstories
+- Children, School and Learning
 
 ## Orion's mods
 - Hospitality
