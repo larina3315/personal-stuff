@@ -1,12 +1,6 @@
 ## Websites for mods
 - https://rimworldbase.com
 
-### Pre-requisites
-- Harmony Library
-- HugsLib
-- [SYR] Processor Framework
-- Vehicle Framework
-
 ### Content vs QoL mods
 QoL mods only change/slightly revamp vanilla mechanics. (might include extra content mod that is absolutely essential)
 Content mods add new content.
