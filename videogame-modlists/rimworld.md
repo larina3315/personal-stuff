@@ -1,55 +1,55 @@
 ## Websites for mods
 - https://rimworldbase.com
+
 ### Pre-requisites
 - Harmony Library
 - HugsLib
 - [SYR] Processor Framework
 - Vehicle Framework
 
-## QoL mods (non-series)
-- RimHUD
-- Tech Advancing
+### Content vs QoL mods
+QoL mods only change/slightly revamp vanilla mechanics.
+Content mods add new content.
+
+# QoL mods
+
+## Vanila+ QoL mods
 - Common Sense
+- Tech Advancing
 - Realistic Rooms
+- Device Standby
+- RimHUD
+- Quality Colors
+- Bionic Icons
+- Trait and Backstory Icons
+
+## Vanilla++ QoL mods
 - Pick Up And Haul (PUAH)
 - While You're Up (PUAH+)
 - Share The Load
-- Quality Colors
-### Heavier QoL mods (non-series)
 - Giddy Up 2
-- Snap Out
 - Hardworking Animals
-- Run and Hide
-- Device Standby
-- Children, School and Learning
-- Bionic Icons
-- Trait and Backstory Icons
-### Vanilla+ Content mods
-- Tribal Backstories
+- Snap Out
+- TacticOwl
+- Geological Landforms
+- Biome Transitions
+
+# Content mods
+
+## Vanilla+ Content mods
 - Smoked Meat
 - Smoked Fish
 - A Dog Said
-- Geological Landforms
-- Biome Transitions
+- Children, School and Learning
 - Kenshi Fauna
-### Extras
-- Map Reroll
-### Deprecated (By OwlChemist)
-- RimFridge
-- Wall Lights
-- Run and Gun
-
-## Buggy
-- Simple Sidearms
-- Bunk Beds
-- Loft Bed
+- Tribal Backstories
 
 ## Orion's mods
 - Hospitality
+- Hospitality - Spa
+- Hospitality - Casino
 - Hospitality - Storefront
 - Hospitality - Vending machines
-- Hospitality - Casino
-- Hospitality - Spa
 - Cash Register
 - Gastronomy
 
@@ -60,4 +60,18 @@
 - RimCuisine 2 - Meals and Munchies Expansion
 
 ## Entire Vanilla Expanded Collection (VE)
-## All of OwnChemist's mods
+## OwlChemist mods
+
+### Extras
+- Map Reroll
+- Run and Hide
+
+### Deprecated (By OwlChemist)
+- RimFridge
+- Wall Lights
+- Run and Gun
+
+## Buggy
+- Simple Sidearms
+- Bunk Beds
+- Loft Bed (?)
