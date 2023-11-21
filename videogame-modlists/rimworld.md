@@ -60,7 +60,7 @@ Content mods add new content.
 - RimCuisine 2 - Meals and Munchies Expansion
 
 ## Entire Vanilla Expanded Collection (VE)
-## OwlChemist mods
+## OwlChemist mods according to taste
 
 ### Extras
 - Map Reroll
