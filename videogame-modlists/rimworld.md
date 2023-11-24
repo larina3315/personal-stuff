@@ -58,11 +58,11 @@ Content mods add new content.
 ## Entire Vanilla Expanded Collection (VE)
 ## OwlChemist mods according to taste
 
-### Extras
+## Extras
 - Map Reroll
 - Run and Hide
 
-### Deprecated (By OwlChemist)
+## Deprecated (By OwlChemist)
 - RimFridge
 - Wall Lights
 - Run and Gun
