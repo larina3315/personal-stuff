@@ -1,5 +1,7 @@
-## Websites for mods
-- https://rimworldbase.com
+## How to get mods
+- https://rimworldbase.com (Good website but lacks some mods)
+- RimPy mod manager (Recommended)
+- Manually downloading things with steamcmd/WorkshopDL
 
 ### Content vs QoL mods
 QoL mods only change/slightly revamp vanilla mechanics. (might include extra content mod that is absolutely essential)
@@ -56,7 +58,7 @@ Content mods add new content.
 - RimCuisine 2 - Meals and Munchies Expansion
 
 ## Entire Vanilla Expanded Collection (VE)
-## OwlChemist mods according to taste
+## OwlChemist mods (According to taste)
 
 ## Extras
 - Map Reroll
