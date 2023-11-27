@@ -4,12 +4,15 @@
 ### For Rust
 - Download Rust SDK from flathub (org.freedesktop.Sdk.Extension.rust-stable) that matches the freedesktop version of VSC
 - Set "FLATPAK_ENABLE_SDK_EXT=rust-stable" envvar for VSC (via Flatseal)
-### Configuring Rust
-- Install "rust-analyzer", "crates" and "Better TOML" VSC extensions
 ### For terminal/toolbox
 - Create a toolbox named "devbox" (toolbox create devbox)
 - Set it up however you like
 - (Optional) Install rust/cargo with sudo dnf install rust cargo
+
+## Configuring Rust
+- Install "rust-analyzer", "crates" and "Better TOML" VSC extensions
+## Optional
+- Disable filesystem=host/home permissions and add direct path such as ~/Projects
 
 ## Setup in VSC
 ### Custom toolbox in terminal
