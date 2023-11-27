@@ -2,12 +2,14 @@
 
 ## Pre-requisites
 ### For Rust
-1. Download Rust SDK from flathub (org.freedesktop.Sdk.Extension.rust-stable) that matches the freedesktop version of VSC
-2. Set "FLATPAK_ENABLE_SDK_EXT=rust-stable" envvar for VSC (via Flatseal)
+- Download Rust SDK from flathub (org.freedesktop.Sdk.Extension.rust-stable) that matches the freedesktop version of VSC
+- Set "FLATPAK_ENABLE_SDK_EXT=rust-stable" envvar for VSC (via Flatseal)
+### Configuring Rust
+- Install "rust-analyzer", "crates" and "Better TOML" VSC extensions
 ### For terminal/toolbox
-1. Create a toolbox named "devbox" (toolbox create devbox)
-2. Set it up however you like
-3. (Optional) Install rust/cargo with sudo dnf install rust cargo
+- Create a toolbox named "devbox" (toolbox create devbox)
+- Set it up however you like
+- (Optional) Install rust/cargo with sudo dnf install rust cargo
 
 ## Setup in VSC
 ### Custom toolbox in terminal
@@ -26,6 +28,7 @@
 
 (Optional)
 
+
 ```
     "terminal.integrated.automationProfile.linux": {
         "path": "flatpak-spawn",
@@ -37,6 +40,5 @@
 ```
 
 - Set "Terminal>Integrated>Default Profiles: Linux" to fedora-toolbox in Settings
+ 
 
-- ### Configuring Rust
-- - Install "rust-analyzer", "crates" and "Better TOML" VSC extensions
