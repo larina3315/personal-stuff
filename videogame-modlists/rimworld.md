@@ -24,11 +24,11 @@ Content mods add new content.
 - While You're Up (PUAH+)
 - Share The Load
 - Giddy Up 2
-- Hardworking Animals
-- Snap Out
 - TacticOwl
 - Geological Landforms
 - Biome Transitions
+- Hardworking Animals
+- Snap Out
 
 # Content mods
 
