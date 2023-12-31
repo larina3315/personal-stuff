@@ -12,7 +12,7 @@
 ## Configuring Rust
 - Install "rust-analyzer", "crates" and "Better TOML" VSC extensions
 ## Optional
-- Disable filesystem=host/home permissions and add direct path such as ~/Projects
+- Disable filesystem=host/home permissions and add direct path such as ~/Projects:create
 
 ## Setup in VSC
 ### Custom toolbox in terminal
