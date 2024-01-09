@@ -19,6 +19,8 @@
 - Edit settings.json for "Terminal>Integrated>Profiles: Linux" in Settings
 - Put the following in the "terminal.integrated.profiles.linux" codeblock section (don't forget to put a comma before the last entry before pasting the following)
 
+flatpak-spawn :
+
 ```
         "fedora-toolbox": {
             "path": "flatpak-spawn",
@@ -29,8 +31,17 @@
         }
 ```
 
-(Optional)
+host-spawn :
 
+```
+        "fedora-toolbox": {
+            "path": "host-spawm",
+            "args": ["toolbox","enter","devbox"]
+        }
+```
+
+(Optional)
+flatpak-spawn
 
 ```
     "terminal.integrated.automationProfile.linux": {
@@ -39,6 +50,15 @@
         "--env=TERM=xterm-256color",
         "--host","toolbox","enter","devbox"
         ]
+    }
+```
+
+host-spawn
+
+```
+    "terminal.integrated.automationProfile.linux": {
+        "path": "host-spawm",
+        "args": ["toolbox","run","-c","devbox"]
     }
 ```
 
