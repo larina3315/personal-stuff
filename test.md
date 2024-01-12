@@ -3,7 +3,7 @@
 **make-pkgs** is a collection of bash scripts, intended to make the experience of compiling OBK and generating packages for various distros simpler and user-friendly.
 This is made as an user-facing tool, with simple switches for operation.
 
-**NOTE** : It is **HIGHLY** recommended you have [toolbx](https://containertoolbx.org/) installed in your host OS, the `--toolbox` flag only works if you have toolbx installed.
+**NOTE** : It is **HIGHLY** recommended you have [toolbx](https://containertoolbx.org/) installed in your host OS, it is required for the `--toolbox` flag to function.
 
 ## The importance of toolbx containers
 
