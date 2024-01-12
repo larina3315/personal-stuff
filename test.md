@@ -3,13 +3,13 @@
 **make-pkgs** is a collection of bash scripts, intended to make the experience of compiling OBK and generating packages for various distros simpler and user-friendly.
 This is made as an user-facing tool, with simple switches for operation.
 
-**NOTE** : It is **HIGHLY** recommended you have the `toolbox` package installed.
+**NOTE** : It is **HIGHLY** recommended you have [toolbx](https://containertoolbx.org/) installed in your host OS, the `--toolbox` flag only works if you have toolbx installed.
 
-## The importance of Toolbx containers
+## The importance of toolbx containers
 
-Toolbx is a user-friendly CLI utility for creating and entering "containers" for various linux distros, similar to Distrobox.
-Toolbx is used in make-pkgs to compile and package OBK for distros other than your own.
-For example, If you are on Debian and you want to generate `.rpm`s specifically for Fedora 37, you can do so.
+[toolbx](https://containertoolbx.org/) is an user-friendly CLI utility for creating and entering "containers" for various linux distros, similar to Distrobox.
+toolbx is used in make-pkgs to compile and package OBK for distros other than your own.
+For example, If you are on Debian and you want to generate `.rpm`s specifically for Fedora 37.
 
 ## How to use
 
@@ -20,7 +20,7 @@ For example, If you are on Debian and you want to generate `.rpm`s specifically 
 For a list of commands, use `./make-pkgs.sh --help`
 Generated packages are stored inside the make-pkgs folder inside a directory named "builds"
 
-**NOTE** : The `--toolbox` flag only works if you have the `toolbox` package installed on your host OS.
+**NOTE** : .
 
 ## Examples
 
