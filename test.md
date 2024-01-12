@@ -13,17 +13,29 @@ For example, If you are on Debian and you want to generate `.rpm`s specifically 
 
 ## How to use
 
-Copy this folder, make the make-pkgs.sh script executable by doing `chmod +x make-pkgs.sh`
-Then use the script using `./make-pkgs.sh --<commands>`
+- (Optional) Copy this folder to a convenient location (e.g. ~/Scripts)
+- Make the make-pkgs.sh script executable by doing `chmod +x make-pkgs.sh`
+- Then use the script using `./make-pkgs.sh --<commands>`
+
 For a list of commands, use `./make-pkgs.sh --help`
 Generated packages are stored inside the make-pkgs folder inside a directory named "builds"
 
 ## Examples
 
 Here are some examples and their explanation on how to use make-pkgs
-`./make-pkgs.sh --ibus --develop --debian`
+
+```
+./make-pkgs.sh --ibus --develop --debian
+```
+
 This will compile and generate ibus OBK packages for Debian from the `develop` branch, development tools and libraries will be installed on your host system.
-`./make-pkgs.sh --ibus --fcitx --develop --debian 11 --fedora 38 --toolbox`
+
+```
+./make-pkgs.sh --ibus --fcitx --develop --debian 11 --fedora 38 --toolbox
+```
+
 This will compile and generate ibus and fcitx OBK packages for Debian 11 and Fedora 38 from the `develop` branch, development tools and libraries will be installed inside of toolbox containers, your host system will remain untouched.
-`./make-pkgs.sh --clean`
+```
+./make-pkgs.sh --clean
+```
 This will remove all toolbox containers named "obk-toolbox-*" and clear the directory where the script stores it's files (by default in ~/.obk-build/)
