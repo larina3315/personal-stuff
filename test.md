@@ -15,10 +15,11 @@ For example, If you are on Debian and you want to generate `.rpm`s specifically 
 
 - (Optional) Copy this folder to a convenient location (e.g. ~/Scripts)
 - Make the make-pkgs.sh script executable by doing `chmod +x make-pkgs.sh`
-- Then use the script using `./make-pkgs.sh --<commands>`
+- Then use the script using `./make-pkgs.sh --<flags>`
 
 For a list of commands, use `./make-pkgs.sh --help`
 Generated packages are stored inside the make-pkgs folder inside a directory named "builds"
+**NOTE** : The `--toolbox` flag only works if you have the `toolbox` package installed on your host OS.
 
 ## Examples
 
