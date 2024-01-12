@@ -19,6 +19,7 @@ For example, If you are on Debian and you want to generate `.rpm`s specifically 
 
 For a list of commands, use `./make-pkgs.sh --help`
 Generated packages are stored inside the make-pkgs folder inside a directory named "builds"
+
 **NOTE** : The `--toolbox` flag only works if you have the `toolbox` package installed on your host OS.
 
 ## Examples
