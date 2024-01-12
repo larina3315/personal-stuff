@@ -23,17 +23,18 @@ Generated packages are stored inside the make-pkgs folder inside a directory nam
 ## Examples
 
 Here are some examples and their explanation on how to use make-pkgs
+
+1. This will compile and generate ibus OBK packages for Debian from the `develop` branch, development tools and libraries will be installed on your host system.
 ```
 ./make-pkgs.sh --ibus --develop --debian`
 ```
-This will compile and generate ibus OBK packages for Debian from the `develop` branch, development tools and libraries will be installed on your host system.
-\
+
+2. This will compile and generate ibus and fcitx OBK packages for Debian 11 and Fedora 38 from the `develop` branch, development tools and libraries will be installed inside of toolbox containers, your host system will remain untouched.
 ```
 ./make-pkgs.sh --ibus --fcitx --develop --debian 11 --fedora 38 --toolbox
 ```
-This will compile and generate ibus and fcitx OBK packages for Debian 11 and Fedora 38 from the `develop` branch, development tools and libraries will be installed inside of toolbox containers, your host system will remain untouched.
-\
+
+3. This will remove all toolbox containers named "obk-toolbox-*" and clear the directory where the script stores it's files (by default in ~/.obk-build/)
 ```
 ./make-pkgs.sh --clean
 ```
-This will remove all toolbox containers named "obk-toolbox-*" and clear the directory where the script stores it's files (by default in ~/.obk-build/)
