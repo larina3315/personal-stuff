@@ -38,7 +38,6 @@ Content mods add new content.
 
 ## Vanilla++ Content mods
 - A Dog Said
-- Kenshi Fauna
 - Tribal Backstories
 - Children, School and Learning
 
@@ -63,6 +62,7 @@ Content mods add new content.
 ## Extras
 - Map Reroll
 - Run and Hide
+- Kenshi Fauna
 
 ## Deprecated (By OwlChemist)
 - RimFridge
