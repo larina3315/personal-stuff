@@ -40,6 +40,9 @@ Content mods add new content.
 - A Dog Said
 - Tribal Backstories
 - Children, School and Learning
+- Dubs Bad Hygiene
+
+# Other mod collections
 
 ## Orion's mods
 - Hospitality
@@ -50,14 +53,20 @@ Content mods add new content.
 - Cash Register
 - Gastronomy
 
+(+ Hospitality - Spa if Dubs Bad Hygiene is used)
+
 ## RimCuisine
 - RimCuisine 2 Core
 - RimCuisine 2 - Smokes and Shrooms Expansion
 - RimCuisine 2 - Bottling and Booze Expansion
 - RimCuisine 2 - Meals and Munchies Expansion
 
+
+
 ## Entire Vanilla Expanded Collection (VE)
+- Try to ignore the race/storyteller/faction mods, they are GIGANTIC
 ## OwlChemist mods (According to taste)
+- Really, you probably only need 5 mods max, esp. avoid the Simple Chains series if you're new or want an easy game
 
 ## Extras
 - Map Reroll
@@ -68,8 +77,8 @@ Content mods add new content.
 - RimFridge
 - Wall Lights
 - Run and Gun
+- Simple Sidearms
 
 ## Buggy
-- Simple Sidearms
 - Bunk Beds
 - Loft Bed (?)
