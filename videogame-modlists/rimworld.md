@@ -39,7 +39,7 @@ Content mods add new content.
 ## Vanilla+ Content mods
 
 - Smoked Meat
-- Smoked Fish
+- Smoked Fish (*if Vanilla Fishing Extended is installed)
 
 ## Vanilla++ Content mods
 
@@ -58,7 +58,6 @@ Content mods add new content.
 - Hospitality - Vending machines
 - Cash Register
 - Gastronomy
-
 - Hospitality - Spa (*if Dubs Bad Hygiene is used)
 
 ## RimCuisine
