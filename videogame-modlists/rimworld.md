@@ -76,7 +76,7 @@ Content mods add new content.
 ## OwlChemist mods (According to taste)
 
 - Really, you probably only need 5 mods max
-- Simple Chains series is a difficulty mod, avoid if you don't want that.
+- Simple Chains series and SeedsPlease are difficulty mods, avoid if you don't want that.
 - Variable Room Sizes might conflict with Realistic rooms
 - Animal Equipment/Alpha Animals needs Animal Gear
 - Perspective, Scattered and Simple FX patches are optional
