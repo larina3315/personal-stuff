@@ -70,16 +70,25 @@ Content mods add new content.
 ## Entire Vanilla Expanded Collection (VE)
 
 - Try to ignore the race/storyteller/faction and Textures remastered mods, they are GIGANTIC
-- Animal Gear and Vanilla Expanded Animals needs a patch, Animal Gear Third-Party Patches
+- Animal Gear and Vanilla Expanded Animals needs a patch (Animal Gear Third-Party Patches)
 - Smoked Fish (*if using Smoked Meat)
 
 ## OwlChemist mods (According to taste)
 
-- Really, you probably only need 5 mods max
-- Simple Chains series and SeedsPlease are difficulty mods, avoid if you don't want that.
-- Variable Room Sizes might conflict with Realistic rooms
-- Animal Equipment/Alpha Animals needs Animal Gear
-- Perspective, Scattered and Simple FX patches are optional
+- Most of the mods work well, except the ones listed below which might impact gameplay/performance in a severe way.
+- Animal Equipment/Alpha Animals (*needs Animal Gear)
+
+### Gameplay mods that SEVERELY alter the game
+
+- Simple Chains series
+- SeedsPlease
+- Variable Room Sizes (might conflict with Realistic Rooms)
+
+### Graphics
+
+- Perspective series
+- Scattered series
+- Simple FX series
 
 ## Extras
 
