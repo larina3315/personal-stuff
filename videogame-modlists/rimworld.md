@@ -15,7 +15,6 @@ Content mods add new content.
 - Harmony
 - SYR Framework
 
-
 # QoL mods
 
 ## Vanila+ QoL mods
@@ -46,7 +45,6 @@ Content mods add new content.
 ## Vanilla+ Content mods
 
 - Smoked Meat
-- Smoked Fish
 
 ## Vanilla++ Content mods
 
@@ -66,16 +64,7 @@ Content mods add new content.
 - Hospitality - Vending machines
 - Cash Register
 - Gastronomy
-
 - Hospitality - Spa (*if Dubs Bad Hygiene is used)
-
-## RimCuisine
-
-- RimCuisine 2 Core
-- RimCuisine 2 - Smokes and Shrooms Expansion
-- RimCuisine 2 - Bottling and Booze Expansion
-- RimCuisine 2 - Meals and Munchies Expansion
-
 
 
 ## Entire Vanilla Expanded Collection (VE)
