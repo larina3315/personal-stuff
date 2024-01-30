@@ -43,10 +43,10 @@ Content mods add new content.
 - Just Put It Over There
 - Replace Stuff
 - Blueprints
-- Bulk Stonecutting
+- Bulk Stonecutting/Stonecutting Extended
 - More Planning/Planning Extended
 - Defensive Positions
-- Pharmacist
+- Pharmacist/Choose Your Medicine (*Pharmacist is outdated, there are 1.4 forks)
 - Research Tree
 
 # Content mods
@@ -81,6 +81,7 @@ Content mods add new content.
 - Try to ignore the race/storyteller/faction and Textures remastered mods, they are GIGANTIC
 - Animal Gear and Vanilla Expanded Animals needs a patch (Animal Gear Third-Party Patches)
 - Smoked Fish (*if using Smoked Meat)
+- Replace Stuff Mod COmpatibility (*if Replace Stuff is used)
 
 ## OwlChemist mods (According to taste)
 
