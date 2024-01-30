@@ -7,7 +7,6 @@
         <li>ludeon.rimworld.royalty</li>
         <li>ludeon.rimworld.ideology</li>
         <li>ludeon.rimworld.biotech</li>
-        <li>vanillaexpanded.backgrounds</li>
         <li>unlimitedhugs.hugslib</li>
         <li>spoonshortage.adogsaidanimalprosthetics</li>
         <li>owlchemist.toggleableoverlays</li>
@@ -25,6 +24,9 @@
         <li>owlchemist.barelybetterspots</li>
         <li>m00nl1ght.geologicallandforms</li>
         <li>m00nl1ght.geologicallandforms.biometransitions</li>
+        <li>owlchemist.fridgeutilities</li>
+        <li>vanillaexpanded.vpsycastse</li>
+        <li>frozensnowfox.advancedbionicsexpansion</li>
         <li>automatic.bionicicons</li>
         <li>fluffy.blueprints.fixed</li>
         <li>owlchemist.boundarytraining</li>
@@ -34,8 +36,6 @@
         <li>avilmask.commonsense</li>
         <li>unlimitedhugs.defensivepositions</li>
         <li>cedaro.devicestandby</li>
-        <li>uuugggg.everybodygetsone</li>
-        <li>ykara.epoe</li>
         <li>orion.cashregister</li>
         <li>orion.gastronomy</li>
         <li>daniledman.hardworkinganimals</li>
@@ -49,24 +49,17 @@
         <li>owlchemist.midsaversaver</li>
         <li>owlchemist.moonlight</li>
         <li>com.github.alandariva.moreplanning</li>
-        <li>owlchemist.owlscolonistbar</li>
         <li>owlchemist.permeableterrain</li>
-        <li>vanillaexpanded.vfearchitect</li>
-        <li>owlchemist.wallutilities</li>
         <li>owlchemist.powertab</li>
+        <li>mlie.prostheticnomissingbodyparts</li>
         <li>legodude17.qualcolor</li>
         <li>lucifer.realisticrooms</li>
         <li>uuugggg.replacestuff</li>
+        <li>vanillaexpanded.vfearchitect</li>
+        <li>owlchemist.wallutilities</li>
         <li>garethp.replacestuffcompatibility</li>
         <li>mlie.researchtree</li>
-        <li>vanillaexpanded.vbrewe</li>
-        <li>vanillaexpanded.vbrewecandt</li>
-        <li>vanillaexpanded.vcooke</li>
-        <li>oskarpotocki.vanillafactionsexpanded.settlersmodule</li>
-        <li>oskarpotocki.vfe.vikings</li>
-        <li>vanillaexpanded.vfeproduction</li>
         <li>uuugggg.sharetheload</li>
-        <li>syrchalis.processor.framework</li>
         <li>owlchemist.ceilingutilities</li>
         <li>owlchemist.smartfarming</li>
         <li>dismarzero.vgp.smokedmeat</li>
@@ -87,10 +80,12 @@
         <li>vanillaexpanded.varme</li>
         <li>vanillaexpanded.vanillabackstoriesexpanded</li>
         <li>vanillaexpanded.basegeneration</li>
+        <li>vanillaexpanded.vcooke</li>
         <li>vanillaexpanded.vcookestews</li>
         <li>vanillaexpanded.vcef</li>
         <li>vanillaexpanded.vcookesushi</li>
         <li>vanillaexpanded.vee</li>
+        <li>oskarpotocki.vanillafactionsexpanded.settlersmodule</li>
         <li>vanillaexpanded.vwec</li>
         <li>vanillaexpanded.vwe</li>
         <li>vanillaexpanded.vwehw</li>
@@ -103,17 +98,15 @@
         <li>oskarpotocki.vfe.empire</li>
         <li>oskarpotocki.vfe.deserters</li>
         <li>oskarpotocki.vfe.insectoid</li>
-        <li>oskarpotocki.vfe.classical</li>
-        <li>oskarpotocki.vfe.mechanoid</li>
         <li>oskarpotocki.vfe.pirates</li>
         <li>oskarpotocki.vfe.tribals</li>
+        <li>oskarpotocki.vfe.vikings</li>
         <li>vanillaexpanded.vcefaddon</li>
         <li>vanillaexpanded.vfeart</li>
         <li>vanillaexpanded.vfefarming</li>
         <li>vanillaexpanded.vfemedical</li>
+        <li>vanillaexpanded.vfeproduction</li>
         <li>vanillaexpanded.vfepropsanddecor</li>
-        <li>oskarpotocki.vanillafactionsexpanded.medievalmodule</li>
-        <li>vanillaexpanded.vfesecurity</li>
         <li>vanillaexpanded.vfespacer</li>
         <li>vanillaexpanded.vhe</li>
         <li>vanillaexpanded.helixiengas</li>
@@ -132,8 +125,6 @@
         <li>vanillaexpanded.vplantsemore</li>
         <li>vanillaexpanded.vplantsemushrooms</li>
         <li>vanillaexpanded.vplantsesucculents</li>
-        <li>owlchemist.fridgeutilities</li>
-        <li>vanillaexpanded.vpsycastse</li>
         <li>vanillaexpanded.vpe.hemosage</li>
         <li>vanillaexpanded.vpe.puppeteer</li>
         <li>vanillaracesexpanded.android</li>
@@ -171,6 +162,15 @@
         <li>mehni.pickupandhaul</li>
         <li>codeoptimist.jobsofopportunity</li>
         <li>owlchemist.windows</li>
+        <li>vanillaexpanded.vbrewe</li>
+        <li>vanillaexpanded.vbrewecandt</li>
+        <li>oskarpotocki.vfe.classical</li>
+        <li>oskarpotocki.vfe.mechanoid</li>
+        <li>oskarpotocki.vanillafactionsexpanded.medievalmodule</li>
+        <li>vanillaexpanded.vfesecurity</li>
+        <li>frozensnowfox.complexjobs</li>
+        <li>frozensnowfox.filthvanisheswithrainandtime</li>
+        <li>syrchalis.processor.framework</li>
     </activeMods>
     <knownExpansions>
         <li>ludeon.rimworld</li>
