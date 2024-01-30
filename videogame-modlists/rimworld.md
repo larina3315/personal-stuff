@@ -49,9 +49,10 @@ Content mods add new content.
 ## Vanilla++ Content mods
 
 - A Dog Said
+- EPoE
+- Children, School and Learning
 - Tribal Backstories
 - Medieval Backstories
-- Children, School and Learning
 - Dubs Bad Hygiene (*Depends on taste)
 
 # Other mod collections
