@@ -21,8 +21,6 @@ Content mods add new content.
 
 - Common Sense
 - Tech Advancing
-- Realistic Rooms
-- Device Standby
 - Quality Colors
 - Bionic Icons
 - Trait and Backstory Icons
@@ -30,15 +28,26 @@ Content mods add new content.
 
 ## Vanilla++ QoL mods
 
+- Realistic Rooms
+- Device Standby
 - Pick Up And Haul (PUAH)
 - While You're Up (PUAH+) (*People on discord say it's bad)
 - Share The Load
-- Giddy Up 2
-- TacticOwl
+- Giddy Up 2 (*Included in OwlChemist's mods section)
+- TacticOwl (*Included in OwlChemist's mods section)
 - Geological Landforms
 - Biome Transitions
 - Hardworking Animals
 - Snap Out
+- Everybody Gets One
+- Just Put It Over There
+- Replace Stuff
+- Blueprints
+- Bulk Stonecutting
+- More Planning/Planning Extended
+- Defensive Positions
+- Pharmacist
+- Research Tree
 
 # Content mods
 
@@ -49,10 +58,9 @@ Content mods add new content.
 ## Vanilla++ Content mods
 
 - A Dog Said
-- EPoE
-- Children, School and Learning
+- Expanded Prosthetics and Organ Engineering
 - Tribal Backstories
-- Medieval Backstories
+- Animal Gear
 - Dubs Bad Hygiene (*Depends on taste)
 
 # Other mod collections
