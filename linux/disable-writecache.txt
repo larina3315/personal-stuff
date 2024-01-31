@@ -1,0 +1,39 @@
+https://www.kernel.org/doc/html/latest/admin-guide/sysctl/vm.html
+https://www.man7.org/linux/man-pages/man5/sysctl.d.5.html
+https://www.kernel.org/doc/html/latest/admin-guide/laptops/laptop-mode.html
+# conf files goes to /etc/sysctl.d/*.conf
+
+
+# dirty_bytes (+background) are mutually exclusive to dirty_ratio (+background)
+# if one is set to a non-zero value the other must be set to zero
+
+dirty_bytes = ? (0) : Contains the amount of dirty memory at which a process generating disk writes will itself start writeback.
+
+dirty_background_bytes = ? (0) : Contains the amount of dirty memory at which the background kernel flusher threads will start writeback.
+
+dirty_ratio = ? (20) : same as dirty_bytes but percentage
+dirty_background_ratio = 0 (10) : same as dirty_background_bytes but percentage
+
+dirty_writeback_centisecs = 100 (500) (5 seconds) : The kernel flusher threads will periodically wake up and write old data out to disk. This tunable expresses the interval between those wakeups, in 100'ths of a second. Setting this to zero disables periodic writeback altogether.
+
+dirty_expire_centisecs = 100 (3000) (30 seconds) : This tunable is used to define when dirty data is old enough to be eligible for writeout by the kernel flusher threads. It is expressed in 100'ths of a second. Data which has been dirty in-memory for longer than this interval will be written out next time a flusher thread wakes up.
+
+dirtytime_expire_seconds = ? (43200) : When a lazytime inode is constantly having its pages dirtied, the inode with an updated timestamp will never get chance to be written out. And, if the only thing that has happened on the file system is a dirtytime inode caused by an atime update, a worker will be scheduled to make sure that inode eventually gets pushed out to disk. This tunable is used to define when dirty inode is old enough to be eligible for writeback by the kernel flusher threads. And, it is also used as the interval to wakeup dirtytime_writeback thread.
+
+  looking at parent device '/devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3:1.0':
+    KERNELS=="3-3:1.0"
+    SUBSYSTEMS=="usb"
+    DRIVERS=="usb-storage"
+    ATTRS{authorized}=="1"
+    ATTRS{bAlternateSetting}==" 0"
+    ATTRS{bInterfaceClass}=="08"
+    ATTRS{bInterfaceNumber}=="00"
+    ATTRS{bInterfaceProtocol}=="50"
+    ATTRS{bInterfaceSubClass}=="06"
+    ATTRS{bNumEndpoints}=="02"
+    ATTRS{physical_location/dock}=="no"
+    ATTRS{physical_location/horizontal_position}=="left"
+    ATTRS{physical_location/lid}=="no"
+    ATTRS{physical_location/panel}=="back"
+    ATTRS{physical_location/vertical_position}=="center"
+    ATTRS{supports_autosuspend}=="1"

@@ -1,0 +1,5 @@
+#!/usr/bin/bash
+
+touch $2
+fallocate -l $1 $2
+udisksctl loop-setup -f $2
