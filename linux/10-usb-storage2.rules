@@ -1,0 +1,11 @@
+# Store in /etc/udev/rules.d/
+# On add
+ACTION=="add"
+# If USB
+SUBSYSTEM=="block"
+SUBSYSTEMS=="usb"
+# If filesystem (?)
+ENV{ID_FS_USAGE}=="filesystem"
+# allow and set vars
+ENV{UDISKS_MOUNT_OPTIONS_ALLOW}+="sync"
+ENV{UDISKS_MOUNT_OPTIONS_DEFAULTS}+="sync"
