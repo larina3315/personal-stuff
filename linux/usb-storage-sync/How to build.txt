@@ -1,0 +1,6 @@
+ # to build source rpms
+ rpmbuild -bs ~/rpmbuild/SPECS/*
+ # to build binary rpms
+ rpmbuild -bb ~/rpmbuild/SPECS/*
+ # to build both rpms
+ rpmbuild -ba ~/rpmbuild/SPECS/*
