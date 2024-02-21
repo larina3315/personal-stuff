@@ -1,7 +1,9 @@
 ## How to get mods
 
-https://www.nexusmods.com/fallout3/
-https://github.com/ModOrganizer2/modorganizer/releases
+- (NexusMods) https://www.nexusmods.com/fallout3/
+- (Mod Organizer 2) https://github.com/ModOrganizer2/modorganizer/releases
+
+#### Use MO2 to install mods unless it is tagged (Manual)
 
 ### QoL vs Content mods
 
@@ -9,18 +11,17 @@ QoL mods only change/slightly revamp vanilla mechanics. (might include extra con
 Content mods add/remove content.
 
 # Base
-- FOSE ( https://www.fose.silverlock.org/ )
+- (Mannual) FOSE ( https://www.fose.silverlock.org/ )
+- (Mannual) Ogg Vorbis Libraries ( https://www.nexusmods.com/newvegas/mods/61265 )
+- (Mannual) Fallout 3 Heap Replacer ( https://www.nexusmods.com/fallout3/mods/24470 )
+- (Mannual) Intel HD graphics Bypass package ( https://www.nexusmods.com/fallout3/mods/17209 )
+- (Mannual) Unofficial Fallout 3 ESM Patcher (run before BSA Decompressor) ( https://www.nexusmods.com/fallout3/mods/25717 )
+- (Mannual) FO3 BSA Decompressor (run after ESM patcher) ( https://www.nexusmods.com/fallout3/mods/25720 )
 - Updated Unofficial Fallout 3 Patch ( https://www.nexusmods.com/fallout3/mods/19122 )
 - Command Extender ( https://www.nexusmods.com/fallout3/mods/23682 )
 - NVAC (configured to also work with other Bethesda games ootb) ( https://www.nexusmods.com/newvegas/mods/53635 )
 - lStewieAl's Tweaks ( https://www.nexusmods.com/fallout3/mods/23561 )
 - OneTweak but Really Updated ( https://www.nexusmods.com/fallout3/mods/25485 )
-- 
-- Unofficial Fallout 3 ESM Patcher (run before BSA Decompressor) ( https://www.nexusmods.com/fallout3/mods/25717 )
-- FO3 BSA Decompressor ((run after ESM patcher)) ( https://www.nexusmods.com/fallout3/mods/25720 )
-- Ogg Vorbis Libraries ( https://www.nexusmods.com/newvegas/mods/61265 )
-- Fallout 3 Heap Replacer ( https://www.nexusmods.com/fallout3/mods/24470 )
-- Intel HD graphics Bypass package ( https://www.nexusmods.com/fallout3/mods/17209 )
 
 # Vanilla+ QoL mod
 - Fallout 3 - Enhanced Camera ( https://www.nexusmods.com/fallout3/mods/20183 )
